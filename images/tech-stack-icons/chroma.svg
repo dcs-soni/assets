@@ -1,1 +1,8 @@
-<!doctype html><script type="d9c4e60b170d6c7c2398089e-text/javascript">const PATH=`404/`,params=new URL(window.location).searchParams.toString(),opts=params?`?${params}`:``;window.location=`https://simpleicons.org/404/${opts}`;</script><noscript><meta content="0; URL=https://simpleicons.org/404/" http-equiv=refresh></head></noscript></html><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="d9c4e60b170d6c7c2398089e-|49" defer></script>
+<svg width="256" height="164" viewBox="0 0 256 164" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>Chroma</title>
+    <g>
+        <ellipse fill="#FFDE2D" cx="170.666795" cy="81.9198362" rx="85.3332053" ry="81.9198362"></ellipse>
+        <ellipse fill="#327EFF" cx="85.3332053" cy="81.9198362" rx="85.3332053" ry="81.9198362"></ellipse>
+        <path d="M170.666795,81.9199642 C170.666795,127.163394 132.461431,163.83916 85.3330773,163.83916 L85.3330773,81.9199642 L170.666795,81.9199642 Z M85.3332053,81.9198362 C85.3332053,36.6767906 123.538185,8.95998209e-05 170.666795,8.95998209e-05 L170.666795,81.9198362 L85.3332053,81.9198362 Z" fill="#FF6446"></path>
+    </g>
+</svg>
